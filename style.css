@@ -22,6 +22,14 @@ body{
     padding: 20px;
 }
 
+.caixa-resultado{
+    display: none;
+}
+
+.mostrar-caixa-resultado{
+    display: block;
+}
+
 h1{
     color: var(--cor-destaque);
 }
