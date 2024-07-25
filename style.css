@@ -9,7 +9,7 @@
 body{
     background-image: url("fundo.jpg");
     background-repeat: no-repeat;
-    background-size: contain;
+    background-size: cover;
     color: var(--cor-texto);
     display: flex;
     justify-content: center;
